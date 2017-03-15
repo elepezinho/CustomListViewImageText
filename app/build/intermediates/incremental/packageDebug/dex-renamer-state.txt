@@ -1,0 +1,7 @@
+#Wed Mar 15 02:17:33 BRT 2017
+base.0=C\:\\Users\\Acer\\AndroidStudioProjects\\CustomListViewImageText\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1002406baafc329732db7f194dcae6058a4cf983
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Acer\\AndroidStudioProjects\\CustomListViewImageText\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2f8f05aea329aa4e8d31a715744f16c5e67d962\\classes.dex
+base.1=C\:\\Users\\Acer\\AndroidStudioProjects\\CustomListViewImageText\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2f8f05aea329aa4e8d31a715744f16c5e67d962
+file.0=C\:\\Users\\Acer\\AndroidStudioProjects\\CustomListViewImageText\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1002406baafc329732db7f194dcae6058a4cf983\\classes.dex

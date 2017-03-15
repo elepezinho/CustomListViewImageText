@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Acer\AndroidStudioProjects\CustomListViewImageText\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\CustomListViewImageText\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1002406baafc329732db7f194dcae6058a4cf983\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Acer\AndroidStudioProjects\CustomListViewImageText\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfaa650ea7fa02968a46355f4e2b9ed9b0e30b9b">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\CustomListViewImageText\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e2f8f05aea329aa4e8d31a715744f16c5e67d962\classes.dex" />
+    </item>
+
+</items>
